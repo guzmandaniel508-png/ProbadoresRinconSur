@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Marco de la puerta -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,28h40v54h-40z" />
+    <!-- Hoja de la puerta -->
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M39,33h30v49h-30z" />
+    <!-- Cortina superior -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,40h20v10h-20z" />
+    <!-- Perilla -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M62,60m-2.6,0a2.6,2.6 0,1 1,5.2 0a2.6,2.6 0,1 1,-5.2 0" />
+</vector>
